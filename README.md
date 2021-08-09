@@ -6,7 +6,7 @@ me apaixonei pelo front-end e desejo me aperfeiçoar ao máximo para alcançar m
 - 🌱 Estudando: Java, Javascript, Spring Boot, React ...
 ##
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/domynikmv057">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domynikmv057&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domynikmv057&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -27,6 +27,9 @@ me apaixonei pelo front-end e desejo me aperfeiçoar ao máximo para alcançar m
     <a href = "mailto:domynikmv.057@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="http://api.whatsapp.com/send?phone=+55 32 9939-2143" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <a href="https://www.facebook.com/domynik.marcone" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+   
+   
+   ![Snake animation](https://github.com/domynikmv057/domynikmv057/blob/output/github-contribution-grid-snake.svg)
   </div>
   
  ##
