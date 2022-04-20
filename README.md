@@ -11,7 +11,7 @@ trabalho
 - <hr />
 - 🌱 Estudando: Angular, React, Java...
 - <hr />
-##
+
  <div>
   <a href="https://github.com/domynikmv057">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domynikmv057&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
