@@ -1,5 +1,5 @@
-- 💬  Formando em Ciencia da computação especializado  em desenvolvedor Full-stack, com foco maior no desenvolvimento Front-End.
-Estou em busca da minha primeira oportunidade como Desenvolvedor, sou uma pessoa criativa espontânea e leal, gosto de correr atrás do que me interessa, com desenvolvimento não é diferente, tenho experiencia com as tecnologias HTML, CSS, JavaScript, Bootstrap, SASS, React js, Angular, Java, PHP, Android Studio, Firebase, MySql. 
+- 💬  Sou responsável por estruturar situações-problema e desenvolver em código as implementações de novas funcionalidades para a plataforma. Traduzindo as regras de negócios propostas para os ambientes de desenvolvimento, garantindo a estabilidade do sistema, desenvolvendo casos de teste que garantam a estabilidade e funcionamento da plataforma. Possuo experiência com linguagens, metodologias e ferramentas como C#, Delphi, C, C++, JavaScript, SQL, HTML, CSS, MVVM (Model–view–viewmodel), POO (programação orientada a objetos), GitHub, Scrum, entre outras. Estou sempre buscando aprimorar minhas habilidades e conhecimentos para continuar entregando soluções eficientes e de qualidade.
+- 
 <hr />
 - 🔭 Em busca do meu primeiro emprego...
 </br>
