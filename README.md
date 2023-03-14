@@ -1,26 +1,7 @@
-- 💬  Sou responsável por estruturar situações-problema e desenvolver em código as implementações de novas funcionalidades para a plataforma. Traduzindo as regras de negócios propostas para os ambientes de desenvolvimento, garantindo a estabilidade do sistema, desenvolvendo casos de teste que garantam a estabilidade e funcionamento da plataforma. Possuo experiência com linguagens, metodologias e ferramentas como C#, Delphi, C, C++, JavaScript, SQL, HTML, CSS, MVVM (Model–view–viewmodel), POO (programação orientada a objetos), GitHub, Scrum, entre outras. Estou sempre buscando aprimorar minhas habilidades e conhecimentos para continuar entregando soluções eficientes e de qualidade.
-- 
-<hr />
-- 🔭 Em busca do meu primeiro emprego...
-</br>
-- 🌱 Estudando: Angular, React, Java...
- <hr />
+- 💬  Sou responsável por estruturar situações-problema e desenvolver em código as implementações de novas funcionalidades para a plataforma. Traduzindo as regras de negócios propostas para os ambientes de desenvolvimento, garantindo a estabilidade do sistema, desenvolvendo casos de teste que garantam a estabilidade e funcionamento da plataforma. Possuo experiência com linguagens, metodologias e ferramentas como C#, Delphi, C, C++, JavaScript, SQL, HTML, CSS, MVVM (Model–view–viewmodel), POO (programação orientada a objetos), GitHub, Scrum, entre outras. Estou sempre buscando aprimorar minhas habilidades e conhecimentos para continuar entregando soluções eficientes e de qualidade. 
 
- <div>
-  <a href="https://github.com/domynikmv057">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=domynikmv057&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domynikmv057&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- <hr />
-  
- <div style="display: inline_block"><br>
-   <img align="center" alt="dom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dom-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="dom-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-</div>
+ 
+ ![Domynik Marcone](https://github-readme-stats.vercel.app/api?username=domynikmv057&count_private=true&show_icons=true&theme=radical)
  
   <hr />
 
